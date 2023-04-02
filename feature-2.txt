@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a different feature
+=======
+this change is added by dev. 
+>>>>>>> 3301323 (feature-2 changes)
