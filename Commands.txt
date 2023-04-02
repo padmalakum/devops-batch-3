@@ -1,0 +1,7 @@
+List of commands which are used today until now
+Git init
+Git add
+Git commit -m "message"
+Git log
+Git diff
+Git status
