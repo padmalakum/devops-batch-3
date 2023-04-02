@@ -5,3 +5,4 @@ Git commit -m "message"
 Git log
 Git diff
 Git status
+very useful commands !!!
